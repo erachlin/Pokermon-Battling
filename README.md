@@ -1,6 +1,6 @@
-# Elemental Editions
+# Pokermon-Battling
 
-`Elemental Editions` is a standalone SMODS add-on for `Pokermon`. It does not modify the Balatro install tree or vendor Pokermon into this repo. The repo root is the mod root.
+`Pokermon Battling` is a standalone SMODS add-on for `Pokermon`. It does not modify the Balatro install tree or vendor Pokermon into this repo. The repo root is the mod root.
 
 ## What It Does
 
