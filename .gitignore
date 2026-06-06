@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.log
+*_debug.log
+lovely.log
+crash*.txt
+
+*.tmp
+*.bak
+*.old
+install.log

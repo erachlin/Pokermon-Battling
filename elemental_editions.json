@@ -1,0 +1,16 @@
+{
+  "id": "elemental_editions",
+  "name": "Elemental Editions",
+  "display_name": "Elemental Editions",
+  "author": ["Workspace Owner"],
+  "description": "Pokermon add-on that turns elemental and Flower cards into battlefield pressure with Pokemon HP, AoE damage, type effectiveness, status transformations, and runtime Pokemon overrides.",
+  "prefix": "elem",
+  "main_file": "main.lua",
+  "priority": 1,
+  "version": "0.3.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1620a)",
+    "Pokermon"
+  ],
+  "conflicts": []
+}
